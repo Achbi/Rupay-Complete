@@ -1,4 +1,4 @@
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
   **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
 
