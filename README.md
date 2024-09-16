@@ -16,4 +16,3 @@
 
  **Responsiveness**: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
 
-and many more, including code architecture and reusability. 
